@@ -1,11 +1,9 @@
 # Contributors
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
-- [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
-- [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - [Yuki](https://github.com/yukuri611)
@@ -600,7 +598,6 @@ Kayla Barton
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Kushal Bhandari] (https://github.com/kushalb-dev)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
-- [Sebastian Serrano] (https://git@github.com:sebasSerrano12)
 - [Desiree Sng] (https://github.com/dez2003)
 - [Axel Meister](https://github.com/meisteraxel)
 - [Stephane Mora](https://github.com/stephanemora)
@@ -3281,7 +3278,6 @@ sh5ed
 - [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Johan Chate](https://github.com/TCLJOHANT)
 - Lulu Jiao
-- -[Spaghettimonstar] (https://github.com/Spaghettimonstar)
 - [Kai Kim](https://github.com/KaiKimiOS)
 - [Sourav Narayan](https://github.com/sounar97)
 - [Shay](https://github.com/shay-520)
@@ -4750,4 +4746,4 @@ git stat
 - [Abhishek Allaboina](https://github.com/abshek7)
 - [Chiranjibi Neuapne](https://github.com/I-Am-Ashura)
 - [Karthick K](https://github.com/kkz6)
-
+- [Mercy](https://github.com/mercydamn) Adding time and date to see how far this goes? 5/14/2023 10:58 EST
